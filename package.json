@@ -1,0 +1,19 @@
+{
+  "name": "react-hooks-calculator",
+  "version": "0.0.1",
+  "description": "Simple calculator app to practice React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klutch27/react-hooks-calculator.git"
+  },
+  "author": "Gareth Leake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klutch27/react-hooks-calculator/issues"
+  },
+  "homepage": "https://github.com/Klutch27/react-hooks-calculator#readme"
+}
